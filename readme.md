@@ -1,5 +1,0 @@
-Hello Vim
-
-
-
-hello Vscode
