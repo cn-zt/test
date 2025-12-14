@@ -1,3 +1,0 @@
-
-
-Hello remote_repo
