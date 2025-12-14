@@ -1,6 +1,3 @@
-
-
-
-
-Hello Github
 hello python
+
+Hello django
